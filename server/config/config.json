@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "Derek",
+    "password": null,
+    "database": "testapp",
+    "host": "localhost",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "define": {
+      "timestamps": false
+    }
+  }
+}
